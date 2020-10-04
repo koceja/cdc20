@@ -25,7 +25,7 @@ const inputs = [
     },
     {
         field: "occupiedUnits",
-        label: "Tract Owner Occupied Units",
+        label: "Number of Properties Owned",
     },
 ]
 

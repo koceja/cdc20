@@ -12,6 +12,8 @@ import Graphs from '../pages/graphs/graphs.js';
 import UserForm from '../pages/form/user-form.js';
 import Methods from '../pages/methods/methods.js';
 
+import BasicEmbed from '../pages/graphs/tableau.js';
+
 
 
 function App() {
