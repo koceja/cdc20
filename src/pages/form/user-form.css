@@ -1,0 +1,32 @@
+.form-content {
+    justify-content: center;
+    align-items: center;
+}
+
+.form-fields {
+    width: 60%;
+}
+
+.form-field {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 100%;
+    margin-right: auto;
+}
+
+#approval-status {
+    display: block;
+    text-align: center;
+    width: 40%;
+    height: 100%;
+    padding-top: auto;
+    padding-bottom: auto;
+}
+
+#loader {
+    margin-bottom: 50px;
+}
+
+.icon {
+    font-size: 15em;
+}
